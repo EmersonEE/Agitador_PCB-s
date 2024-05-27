@@ -1,0 +1,11 @@
+LCD
+
+1- Bienvenida
+2- Ingresar Tiempo con Potenciometro
+3- Ingresar Tiempo con Botones
+4- Boton Continuar y Retroceder
+5- Proceso
+6- Boton Para Regresar
+7- Proceso
+8- Barras de Progreso
+9- Finalizacion
